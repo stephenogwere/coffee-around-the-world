@@ -15,6 +15,7 @@ To fully capture the needs of target users and fulfill an amazing user experienc
    * Featured at the top-left of the landing page and subsequent pages, the navigation shows the name of the website: Coffee Around the World, together with its slogan: Amazing Coffee Meets Great Culture Beyond Borders. The slogan is however not present in the rest of the pages except the landing page.
    * While viewing the website on a mobile device, the rest of the links on the landing page are hidden at the top-right corner with the hamburger icon and all are responsive when the hamburger icon is collapsed, so the user can gain access the rest of the pages and related sections that is: Upcoming Events, Gallery and Join Our Club. All these links to these pages open in an external browser tab to allow users navigate between the different pages and stay connected with the content on all pages of interest.
    * The font and color of the navigational feature on the landing page, contrasts very well with the background and ensures readability and accessibility of the images and textual content giving users clear and beautiful access to information on the name of the website, its slogan, about us, purpose, contact details and links that open on a seperate browser tab, allowing users to connect with us socially via facebook, instagram, tweeter (now X) and youtube. 
-
-### 2.Header
-### 3.
+  
+ * The Header
+ * Credits 
+   * "Icon made by Freepik from www.flaticon.com" 
