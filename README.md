@@ -18,4 +18,4 @@ To fully capture the needs of target users and fulfill an amazing user experienc
   
  * The Header
  * Credits 
-   * "Icon made by Freepik from www.flaticon.com" 
+   * " Icon made by Freepik from www.flaticon.com " 
