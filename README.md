@@ -18,5 +18,5 @@ To fully capture the needs of target users and fulfill an amazing user experienc
   
  * The Header
  * Credits 
-   * Icons for favicon by icons8.com  
+   * Icons for favicon by icons8.com.
    * Part of the code structure adapted from the love run project by code institute.
