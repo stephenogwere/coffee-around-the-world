@@ -79,14 +79,16 @@ nav {
     display: none;
 }
 
-.nav-toggle-sign [
+.nav-toggle-sign {
     font-size: 2rem;
-]
+}
+   
 /* Main Content */
 main {
     background-color: lightblue;
     /* Main element occupies surplus space to push the footer down */
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 /* Footer */
