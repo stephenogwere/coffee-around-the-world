@@ -118,4 +118,14 @@ footer {
     .nav-toggle-sign {
         display: none;
     }
+
+    #logo {
+        margin: 0 0.5rem;
+    }
+
+    /*Main content*/
+    main {
+        /*expand main content down to accomodate the larger header*/
+        margin-top: 97px;
+    }
 }
