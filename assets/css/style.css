@@ -18,7 +18,7 @@ body {
     font-family: 'Lato' , sans-serif;
 }
 
-h1, h2, h3 {
+h1, h2 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -105,32 +105,38 @@ main {
     background-color: rgba(241, 109, 107, .7);
     font-size: 130;
     position: absolute;
-    bottom: 30px;
-    width: 80%;
-    min-height: 200px;
-    padding-top: 40px;
+    top: 30px;
+    width: 90%;
+    min-height: 100px;
+    padding-top: 5px;
     padding-left: 10px;
 }
 
-#cover-text-one > h2, #cover-text-one > h3 {
+#cover-text-one > h2 {
     color: #ffffff;
 }
 
 /*Introduction-About Us section*/
 #cover-text-two {
-    background-color: rgb(169, 169, 169, .7);
+    background-color: rgba(128, 128, 128, .5);
     font-size: 20px;
     position: absolute;
-    bottom: 30px;
-    width: 80%;
-    min-height: 200px;
-    padding-top: 40px;
+    bottom: 2px;
+    width: 90%;
+    min-height: 420px;
+    padding-top: 5px;
     padding-left: 10px;
+    padding-right: 10px;
 }
 
 #cover-text-two > h2 {
     color: #ffffff;
+}
 
+#cover-text-two > p {
+    font-size: 14px;
+    text-align: justify;
+    color: #ffffff;
 }
 /* Footer */
 #social-media-links {
