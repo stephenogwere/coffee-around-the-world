@@ -122,8 +122,8 @@ main {
     font-size: 20px;
     position: absolute;
     bottom: 2px;
-    width: 90%;
-    min-height: 420px;
+    width: 96%;
+    min-height: 400px;
     padding-top: 5px;
     padding-left: 10px;
     padding-right: 10px;
@@ -131,13 +131,29 @@ main {
 
 #cover-text-two > h2 {
     color: #ffffff;
+    padding-bottom: 0;
 }
 
-#cover-text-two > p {
-    font-size: 14px;
+#cover-text-two > p > li {
+    font-size: 18px;
     text-align: justify;
     color: #ffffff;
+    line-height: 1em;
+    margin-bottom: 2.2em;
+    padding-bottom: 1px;
 }
+
+/*Style list items for the about section*/
+.lists-about {
+    font-size: 15.5px;
+    color: #ffffff;
+    list-style-type: none;
+    text-align: justify;
+    letter-spacing: 0.1em;
+    word-spacing: 115%;
+    padding-top: 20px;
+}
+
 /* Footer */
 #social-media-links {
         text-align: center;
