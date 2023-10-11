@@ -105,9 +105,9 @@ main {
     background-color: rgba(241, 109, 107, .7);
     font-size: 130;
     position: absolute;
-    top: 30px;
+    top: 15px;
     width: 90%;
-    min-height: 100px;
+    min-height: 80px;
     padding-top: 5px;
     padding-left: 10px;
 }
@@ -119,11 +119,12 @@ main {
 /*Introduction-About Us section*/
 #cover-text-two {
     background-color: rgba(128, 128, 128, .5);
-    font-size: 20px;
+    font-size: 5px;
     position: absolute;
-    bottom: 2px;
+    top: 140px;
+    bottom: 10px;
     width: 96%;
-    min-height: 400px;
+    min-height: 420px;
     padding-top: 5px;
     padding-left: 10px;
     padding-right: 10px;
@@ -132,6 +133,7 @@ main {
 #cover-text-two > h2 {
     color: #ffffff;
     padding-bottom: 0;
+    font-size: 20px;
 }
 
 #cover-text-two > p > li {
