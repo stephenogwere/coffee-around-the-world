@@ -156,6 +156,30 @@ main {
     padding-top: 10px;
 }
 
+/*Upcoming Events Section*/
+#upcomings {
+    background: url('../images/people-enjoying-coffee-in-a-cafe.jpg') no-repeat center/cover;
+    /*This replaces the media querry to add responsiveness*/
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#upcomings div {
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, .3);
+    padding: 15px;
+    text-align: center;
+    /*This will not wrap on screens of less than 400px wide and each div to expand to fill available space*/
+    flex-basis: 200px;
+    flex-grow: 1;
+    border: 2px solid white;
+}
+
+#upcomings h3 {
+    /*Color set to override color set in the general styles*/
+    color: #ffffff;
+}
+
 /* Footer */
 #social-media-links {
         text-align: center;
@@ -219,3 +243,4 @@ main {
         border-bottom: 1px solid #3a3a3a;
     }
 }
+
