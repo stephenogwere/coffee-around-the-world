@@ -194,6 +194,38 @@ main {
     line-height: 0;
 }
 
+/*Join Us Page*/
+main {
+    /* Enlarge main element to push footer down*/
+    flex: 1 0 auto;
+    /* Add margin at the top to prevent content from being covered by the header */
+    margin-top: 47px;
+    /* Enable flex properties for child elements */
+    display: flex;
+    flex-direction: column;
+}
+
+/* Form */
+#join-us {
+    background-image: url("../images/people-picking-cups-of-coffee.jpg");
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
+
+#join-us-form {
+    color: #ffffff;
+    background-color: rgba(60, 60, 60, 0.6);
+    padding: 30px;
+}
+
+#join-us-form > h2 {
+    color: #fafafa;
+    margin-bottom: 10px;
+}
+
+
 /* Footer */
 #social-media-links {
         text-align: center;
