@@ -162,7 +162,7 @@ main {
 
 /*Upcoming Events Section*/
 #upcomings {
-    background: url('../images/people-enjoying-coffee-in-a-cafe.jpg') no-repeat center/cover;
+    background: url('../images/people-enjoying-coffee-in-a-caffe.jpg') no-repeat center/cover;
     /*This replaces the media querry to add responsiveness*/
     display: flex;
     flex-wrap: wrap;
@@ -187,12 +187,7 @@ main {
 /*Gallery Page*/
 #photos img {
     width: 100%;
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    grid-gap: 20px;
-    justify-content: center;
-    align-items: center;
+    line-height: 1em;
 }
 
 #photos {
@@ -263,14 +258,10 @@ main {
     }
 }
 
-/*Media query: laptops and desktops (1200px and larger)*/ 
+/*Media query: desktops  (1200px and larger)*/
 @media screen and (min-width: 1200px) {
     #photos img {
-        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-        grid-gap: 20px;
+        display: flex;
+        flex-wrap: wrap;
     }
-
-    
-    
 }
-
