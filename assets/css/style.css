@@ -208,6 +208,15 @@ main {
     color: #3a3a3a;
 }
 
+/*Media query: landscape devices or phones and large (576px and larger)*/
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
+
+}
+
 
 /*Media query: tablets and larger (768px and up)*/
 @media screen and (min-width: 768px) {
@@ -249,6 +258,11 @@ main {
         right: 50px;
     }
 
+    /*Gallery page*/
+    #photos {
+        column-count: 3;
+    }
+
 }
 
 /*Media query: laptops and desktops  (992px and larger)*/ 
@@ -256,12 +270,11 @@ main {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
-}
 
-/*Media query: desktops  (1200px and larger)*/
-@media screen and (min-width: 1200px) {
-    #photos img {
-        display: flex;
-        flex-wrap: wrap;
+    /*Gallery page*/
+    #photos {
+        column-count: 4;
     }
 }
+
+    
