@@ -319,6 +319,28 @@ main {
         column-count: 3;
     }
 
+    /* Form */
+    #join-us {
+        background-position: center;
+        position: relative;
+    }
+
+    #join-us-form {
+        max-width: 400px;
+        position: absolute;
+        left: 10%;
+        top: 10px;
+        bottom: 60px;
+    }
+
+    .text-input:hover {
+        border-color: #f9423a;
+    }
+
+    .join-button:hover {
+        background-color: #fafafa;
+        color: #454b1b;
+    }
 }
 
 /*Media query: laptops and desktops  (992px and larger)*/ 
