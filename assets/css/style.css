@@ -148,7 +148,11 @@ main {
     border-radius: 20px;
     padding: 15px 32px;
     font-size: 100%;
+    height: 50px;
+    width: 200px;
 }
+
+
 /*Introduction-About Us Page*/
 #about {
     background: url('../images/caffe-people.jpg') no-repeat center/cover;
@@ -380,7 +384,12 @@ main {
 
     .join-button:hover {
         background-color: #fafafa;
-        color: #454b1b;
+        color: #8b0000;
+    }
+
+    .button-home-one:hover {
+        background-color: #fafafa;
+        color: #8b0000;
     }
 }
 
