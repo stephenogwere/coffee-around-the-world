@@ -87,9 +87,9 @@ nav {
     font-size: 2rem;
 }
 
-/* Main
-     content*/
+/* Main content*/
 main {
+    background-color: lightblue;
     /*Main element occupies surplus space to push the footer down*/
     flex: 1 0 auto;
     margin-top: 95px;
@@ -99,7 +99,7 @@ main {
 #hero-img {
     height: 600px;
     width: 100%;
-    background: url(../images/hero-img-pexels.jpg) no-repeat center center/cover;
+    background: url('../images/hero-img-pexels.jpg') no-repeat center center/cover;
     position: relative;
 }
 
@@ -120,43 +120,51 @@ main {
 }
 
 /*Introduction-About Us section*/
+#about {
+    background: url('../images/caffe-people.jpg') no-repeat center/cover;
+    /*This replaces the media querry to add responsiveness*/
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+}
+
 #cover-text-two {
     background-color: rgba(128, 128, 128, .5);
     font-size: 5px;
     position: absolute;
-    top: 140px;
-    bottom: 10px;
-    width: 96%;
-    min-height: 420px;
-    padding-top: 5px;
+    top: 30px;
+    bottom: 50px;
+    width: 100%;
+    min-height: 200px;
+    padding-top: 40px;
     padding-left: 10px;
     padding-right: 10px;
 }
 
 #cover-text-two > h2 {
     color: #ffffff;
-    padding-bottom: 0;
+    padding-bottom: 10;
     font-size: 20px;
 }
 
 #cover-text-two > p > li {
-    font-size: 18px;
+    font-size: 14px;
     text-align: justify;
     color: #ffffff;
     line-height: 1em;
     margin-bottom: 2.2em;
-    padding-bottom: 1px;
+    padding-bottom: 10px;
 }
 
 /*Style list items for the about section*/
 .lists-about {
-    font-size: 15.5px;
+    font-size: 14px;
     color: #ffffff;
     list-style-type: none;
     text-align: justify;
     letter-spacing: 0.1em;
     word-spacing: 115%;
-    padding-top: 10px;
+    padding-top: 5px;
 }
 
 /*Upcoming Events Section*/
@@ -170,7 +178,7 @@ main {
 #upcomings div {
     color: #ffffff;
     background-color: rgba(0, 0, 0, .3);
-    padding: 15px;
+    padding: 40px;
     text-align: center;
     /*This will not wrap on screens of less than 400px wide and each div to expand to fill available space*/
     flex-basis: 200px;
@@ -180,7 +188,7 @@ main {
 
 #upcomings h3 {
     /*Color set to override color set in the general styles*/
-    color: #ffffff;
+    color: #9ACD32;
 }
 
 /*Gallery Page*/
@@ -226,6 +234,7 @@ main {
 
 #join-us-form > h3 {
     color: #ffffff;
+    margin-top: 10px;
     margin-bottom: 10px;
 }
 
@@ -245,7 +254,7 @@ main {
     border-radius: 2px;
     padding: 15px 32px;
     font-size: 100%;
-    background-color: #454b1b;
+    background-color: #8b0000;
     color: #fafafa;
 }
 
