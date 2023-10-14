@@ -37,6 +37,8 @@ To fully capture the needs of target users and fulfill an amazing user experienc
    * I confirmed that this project is responsive, looks good and functions well on all standard screen sizes using devtools device toolbar.
    * I confirmed that navigation, header, main sections of all pages, footer and text are all readable and easy to understand.
    * I have confirmed that the signup form works well: rrquires entries in every field, will only accept an email in the email field, the submit button works and the link-page button on home page works and opens in a new browser tab to link to the signup page.
+   * All interractions work well.
+   * All external links open in a new browser tab.
  * Bugs
    * Solved bugs
  * Validator Testing
@@ -44,8 +46,8 @@ To fully capture the needs of target users and fulfill an amazing user experienc
  * Deployment
    * The site was successfully deployed to GitHub pages. The steps to deploy are as follows:
     * In the GitHub repository, navigate to the settings tab.
-    * From the source section drop-down menu, select the master branch.
-    * Once the master branch has been selected, the page provided the link to the completed website.
+    * Go to GitHub pages.
+    * Once on GitHub pages, the page provided the link to the completed website.
   * The live link can be found here <https://stephenogwere.github.io/coffee-around-the-world/>
   * 
  * Credits
