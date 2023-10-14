@@ -40,18 +40,27 @@ To fully capture the needs of target users and fulfill an amazing user experienc
    * All interractions work well.
    * All external links open in a new browser tab.
  * Bugs
+   * found
+     * two bugs in CSS
+     * two bugs in HTML
    * Solved bugs
+     * None
  * Validator Testing
+   * W3C Mark up validator used for HTML validation.
+   * W3C CSS validation service used for CSS code validation.
  * Unfixed Bugs
+    * Not solve
  * Deployment
    * The site was successfully deployed to GitHub pages. The steps to deploy are as follows:
     * In the GitHub repository, navigate to the settings tab.
     * Go to GitHub pages.
     * Once on GitHub pages, the page provided the link to the completed website.
   * The live link can be found here <https://stephenogwere.github.io/coffee-around-the-world/>
-  * 
+
  * Credits
    * Content
+     * Part of the structure taken from love run project.
+    * Part of the code structure adapted from the love run project by code institute.
    * Media
-   * Icons for favicon by icons8.com.
-   * Part of the code structure adapted from the love run project by code institute.
+     * Icons for favicon by icons8.com.
+  
