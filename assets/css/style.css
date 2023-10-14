@@ -171,7 +171,8 @@ main {
     bottom: 40px;
     width: 80%;
     min-height: 200px;
-    padding-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     padding-left: 20px;
     padding-right: 2px;
 }
