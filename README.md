@@ -4,6 +4,7 @@
 Coffee around the world website is a virtual event organsing startup that partners with local coffee houses in Nairobi-Kenya to host coffee tasting events of some of the most amazing coffee beverages and recipes from different parts of the world as well as hosting story telling events that promote social-cultural interractions and networking among the local and foreign population in Nairobi. 
 
 Users can find information about our upcoming coffee tasting events, cultural events, book reading sessions, dance performance events among others as well as our hosting locations, hosting times, our contact details and a way to sign up and join our coffee around the world club.
+![home-coffee-universal](https://github.com/stephenogwere/coffee-around-the-world/assets/142418008/77f9418d-1411-4f42-8724-ff35c7e5af78)
 
 ## Target Users and User Goals
 Nairobi has overtime, evolved to be an admired destination for most international expatriates, tourists in East Africa and Africa at large. For this reason, the website targets the expat community, tourists as well as the local and regional residents interested in exploring international coffee beverages and receipees and eager to learn more about the origins and cultural dynamics of the people behind the coffee production, processing and also offers space for networking.
