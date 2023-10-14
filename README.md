@@ -65,3 +65,4 @@ To fully capture the needs of target users and fulfill an amazing user experienc
    * Media
      * Icons for favicon by icons8.com.
   
+![wireframes](https://github.com/stephenogwere/coffee-around-the-world/assets/142418008/2f7a134b-4b97-4aae-bf6b-519c6676a87f)
